@@ -1,6 +1,6 @@
 {
   "name": "bouyomi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Client for Bouyomi-Chan and Bouyomi-san",
   "main": "lib/client.js",
   "scripts": {
