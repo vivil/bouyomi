@@ -1,0 +1,36 @@
+{
+  "name": "bouyomi",
+  "version": "0.0.1",
+  "description": "Client for Bouyomi-Chan and Bouyomi-san",
+  "main": "lib/client.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.8.0",
+    "espower-coffee": "^0.10.0",
+    "gulp": "^3.8.10",
+    "gulp-coffee": "^2.2.0",
+    "gulp-mocha": "^2.0.0",
+    "gulp-notify": "^2.0.1",
+    "gulp-plumber": "^0.6.6",
+    "power-assert": "^0.10.1"
+  },
+  "author": "viviljp",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viviljp/bouyomi.git"
+  },
+  "keywords": [
+    "Bouyomi",
+    "yomiage"
+  ],
+  "bugs": {
+    "url": "https://github.com/viviljp/bouyomi/issues"
+  },
+  "homepage": "https://github.com/viviljp/bouyomi"
+}
